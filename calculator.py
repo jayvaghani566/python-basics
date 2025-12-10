@@ -1,18 +1,17 @@
-a = float(input("First number: "))
-op = input("Operator (+ - * /): ")
-b = float(input("Second number: "))
+﻿# calculator.py
+def calc(a, b, op):
+    if op == "+":
+        return a + b
+    if op == "-":
+        return a - b
+    if op == "*":
+        return a * b
+    if op == "/":
+        return a / b if b != 0 else "inf"
+    return None
 
-if op == '+':
-    print(a + b)
-elif op == '-':
-    print(a - b)
-elif op == '*':
-    print(a * b)
-elif op == '/':
-    if b == 0:
-        print("Cannot divide by zero")
-    else:
-        print(a / b)
-else:
-    print("Invalid operator")
-
+if __name__ == "__main__":
+    a = float(input("a: "))
+    b = float(input("b: "))
+    op = input("operator (+ - * /): ")
+    print("Result:", calc(a, b, op))
