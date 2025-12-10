@@ -13,6 +13,7 @@ def stats(scores):
 
 if __name__ == "__main__":
     with open("scores.txt", "w") as f:
-        f.write("\\n".join(map(str, [78,82,91,60,55])))
+        f.write("
+".join(map(str, [78,82,91,60,55])))
     s = read_scores("scores.txt")
     print(stats(s))
