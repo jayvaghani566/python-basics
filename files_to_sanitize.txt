@@ -1,9 +1,0 @@
-./.venv/lib64/python3.10/site-packages/pygments/lexers/__pycache__/_lasso_builtins.cpython-310.pyc
-./.venv/lib64/python3.10/site-packages/pygments/lexers/_lasso_builtins.py
-./.venv/lib64/python3.10/site-packages/pip/_vendor/rich/__pycache__/_emoji_codes.cpython-310.pyc
-./.venv/lib64/python3.10/site-packages/pip/_vendor/rich/_emoji_codes.py
-./.venv/lib/python3.10/site-packages/pygments/lexers/__pycache__/_lasso_builtins.cpython-310.pyc
-./.venv/lib/python3.10/site-packages/pygments/lexers/_lasso_builtins.py
-./.venv/lib/python3.10/site-packages/pip/_vendor/rich/__pycache__/_emoji_codes.cpython-310.pyc
-./.venv/lib/python3.10/site-packages/pip/_vendor/rich/_emoji_codes.py
-./README.md
