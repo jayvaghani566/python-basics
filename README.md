@@ -1,4 +1,4 @@
-﻿# Mission_RWTH_2025 — Python Foundations (Dec 2025)
+﻿# Mission_python-foundations_2025 — Python Foundations (Dec 2025)
 
 This repo documents Day1–DayX progress: 20 micro-scripts, two micro-projects (calculator, csv_reader), and unit tests.
 
